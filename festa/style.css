@@ -1,3 +1,9 @@
 body {
+    padding: 5% 0;
     text-align: center;
+}
+.gifs {
+    position: static;
+    background-position-x: 0px;
+    background-position-y: 50%;
 }
